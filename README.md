@@ -66,7 +66,7 @@ npx expo start
 click a for android
 ```
 
-*if you get any errors regarding file watcher in your system make sure to install homebrew and homebrew file watcher due to the metro bundling in react-native projects.
+*if you get any errors regarding file watcher in your system make sure to install homebrew and homebrew file watcher most of the time it happens due to the metro bundling in react-native projects with doesn't work on normal system file watcher.
 
 ### <a name="use">ScreenShots 🦧</a>
 
